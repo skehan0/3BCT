@@ -1,0 +1,6 @@
+newpackage\Customer.class
+Servlets\GetCustomer.class
+Servlets\AddCustomer.class
+Servlets\FindCustomer.class
+com\mycompany\assignment3_jpa\JakartaRestConfiguration.class
+com\mycompany\assignment3_jpa\resources\JakartaEE10Resource.class

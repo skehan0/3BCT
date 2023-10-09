@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0bfa4e9ac2371724a88eeb4c1079ee76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - mars: {fileID: 919132149155446097, guid: b81a23a172ca03e4f976644979ab224c, type: 3}
+  - phobos: {fileID: 8158671706834929829, guid: 18b7cfdb18fd74b40a6a893bf804f7a4, type: 3}
+  - deimos: {fileID: 474245857029531064, guid: 519c8392cfe9249b0a0c17b1d45fef5f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
