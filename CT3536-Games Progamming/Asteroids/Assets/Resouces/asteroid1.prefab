@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 5154696592371167265}
   m_Layer: 0
   m_Name: asteroid1
-  m_TagString: Untagged
+  m_TagString: Asteroid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -147,4 +147,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
-  checkInterval: 0.2
+  smallAsteroidPrefab: {fileID: 6822597320597459450, guid: 3f024638e87ae5041b36b0b178a2cdcb, type: 3}
+  numSmallAsteroidsToSpawn: 3
+  playerShipPrefab: {fileID: 7416614300711460070, guid: ddd28bd7f88889c45977612a40ca8e9e, type: 3}
